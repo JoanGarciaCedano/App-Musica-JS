@@ -8,7 +8,7 @@ window.addEventListener('load', () =>{
             "#c060d3",
             "#d3d160",
             "#6860d3",
-            "#60b2d3"aA
+            "#60b2d3"
     ];
 
     //Lets get going with the sound here
